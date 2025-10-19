@@ -120,12 +120,3 @@ Reproduksibilitas
 
 Author
 Vincensiuselang
-
-Lisensi
-Atur sesuai kebutuhan (mis. MIT). Jika Anda ingin, saya bisa menambahkan file `LICENSE`.
-
----
-Jika mau, saya bisa:
-- Mengunci versi dependensi (pinned `requirements.txt`) berdasarkan environment yang Anda gunakan
-- Membuat `environment.yml` untuk conda
-- Menambahkan instruksi singkat untuk menjalankan sel tertentu di notebook (contoh: training, evaluation)
